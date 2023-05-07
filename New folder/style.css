@@ -1,0 +1,120 @@
+.main {
+    max-width: 375px;
+    height: 100%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.title-swift {
+    font-size: 20px;
+}
+
+.card {
+    width: 450px;
+    padding: 20px;
+    box-shadow: 0px 1px 2px black;
+    border: none;
+}
+.col {
+    width: 450px;
+    padding: 20px;
+    box-shadow: 0px 1px 2px black;
+    border: none;
+}
+.card-title1 {
+    position: absolute;
+    font-size: 15px;
+    width: 200px;
+    height: 50px;
+    left: 105px;
+    top: 15px;
+}
+.card-title2 {
+    position: absolute;
+    font-size: 15px;
+    width: 200px;
+    height: 50px;
+    left: 105px;
+    top: 15px;
+}
+.card-title3 {
+    position: absolute;
+    font-size: 15px;
+    width: 200px;
+    height: 50px;
+    left: 105px;
+    top: 15px;
+}
+.card-title4 {
+    position: absolute;
+    font-size: 15px;
+    width: 200px;
+    height: 50px;
+    left: 105px;
+    top: 15px;
+}
+.card-text {
+    position: absolute;
+    color: blue;
+    font-size: 12px;
+    font-family: 'Inter';
+    width: 200px;
+    height: 50px;
+    left: 105px;
+    top: 38px;
+}
+.card-text0 {
+    position: absolute;
+    color: blue;
+    font-size: 12px;
+    font-family: 'inter';
+    width: 200px;
+    height: 50px;
+    left: 105px;
+    top: 52px;
+}
+.card-text1 {
+    position: absolute;
+    font-size: 20px;
+    font-family: 'bold';
+    width: 100px;
+    height: 20px;
+    left: 105px;
+    top: 72px;
+}
+.card-text2 {
+    position: absolute;
+    font-size: 25px;
+    font-family: 'bold';
+    width: 100px;
+    height: 20px;
+    left: 279px;
+    top: 38px;
+}
+.card-text3 {
+    position: absolute;
+    font-size: 25px;
+    font-family: 'bold';
+    width: 100px;
+    height: 20px;
+    left: 318px;
+    top: 40px;
+}
+.card-text4 {
+    position: absolute;
+    font-size: 20px;
+    font-family: 'inter';
+    width: 100px;
+    height: 20px;
+    left: 299px;
+    top: 44px;
+}
+.wrap-shop {
+    position: absolute;
+    width: 63.07px;
+    height: 22px;
+    left: 272px;
+    top: 45px;
+
+}

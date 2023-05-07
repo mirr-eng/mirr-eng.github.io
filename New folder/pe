@@ -1,0 +1,38 @@
+<div class="card mb-3" style="max-width: 600px;">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="Rectangle 4029.png" class="img-fluid rounded-start" alt="...">
+        </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">Spaghetti Carbonara</h5>
+              <p class="card-text">Terdapat saus carbonara dengan topping Smoke Beef, Oregano</p>
+              <p class="card-text"><small class="text-body-secondary">50.000</small></p>
+            </div>
+          </div>
+        <div class="wrap-shop d-flex align-center">
+          <img src="Bag_fill.png" alt="">
+
+        </div>
+      </div>
+
+
+      .swrap-swift {
+        width: 100%;
+        overflow-x: scroll;
+    }
+    
+    .card {
+        width: 450px;
+        padding: 8px;
+        box-shadow: 0px 5px 20px black;
+        border: none;
+    }
+    .wrap-shop{
+        width: 50px;
+        padding: 75px;
+        border-radius: 8px;
+        right: 5px;
+        bottom: 5px;
+        position: absolute;
+    }
